@@ -1,0 +1,12 @@
+#main{
+    margin: 0%;
+    background-color: aqua;
+    border-radius: 5% 5px;
+    text-align: center;
+}
+
+.up{
+    background-color: brown;
+    height: 50px;
+    border-radius: 10%;
+}
